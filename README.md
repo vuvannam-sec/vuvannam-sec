@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-- 🎓 **Year 3** Cyber Security Student @ **HUST** (GPA: 3.27/4.0)
+- 🎓 **Year 3** Cyber Security Student @ **HUST** (GPA: 3.33/4.0)
 - 🎯 Focus: **Web Application Security**, **Penetration Testing**
 - 🧠 Mindset: Attacker Thinking, Systematic Problem Solver
 - 🚀 Goal: **Product Security Engineer (AI-Augmented)**
