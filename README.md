@@ -62,23 +62,12 @@
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/vuvannam12082005/security-writeups">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannam12082005&repo=security-writeups&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&cache_seconds=86400" />
-</a>
-<a href="https://github.com/vuvannam12082005/AI-Based-Security-Enhancements">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannam12082005&repo=AI-Based-Security-Enhancements&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&cache_seconds=86400" />
-</a>
-<br>
-<a href="https://github.com/vuvannam12082005/vpn-detector-traffic-analysis">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannam12082005&repo=vpn-detector-traffic-analysis&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&cache_seconds=86400" />
-</a>
-<a href="https://github.com/vuvannam12082005/OSINT-Tool-ALL-IN-ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannam12082005&repo=OSINT-Tool-ALL-IN-ONE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&cache_seconds=86400" />
-</a>
-
-</div>
+| Project | Description |
+|---------|-------------|
+| [**security-writeups**](https://github.com/vuvannam12082005/security-writeups) | Real-world vulnerability write-ups and security research |
+| [**AI-Based-Security-Enhancements**](https://github.com/vuvannam12082005/AI-Based-Security-Enhancements) | Real-time intrusion detection system on Linux using ML |
+| [**vpn-detector-traffic-analysis**](https://github.com/vuvannam12082005/vpn-detector-traffic-analysis) | Detect VPN vs. non-VPN traffic using ML (RF / XGB / CNN + Stacking) |
+| [**OSINT-Tool-ALL-IN-ONE**](https://github.com/vuvannam12082005/OSINT-Tool-ALL-IN-ONE) | OSINT tool for Facebook profile and comment collection |
 
 ### 🧠 N-Core [Coming Soon]
 
