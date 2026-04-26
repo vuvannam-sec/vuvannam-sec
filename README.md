@@ -1,11 +1,21 @@
 # Vũ Văn Nam
 
-**Cybersecurity Student @ HUST**  
-**Web Application Security → AI Application Security / LLM AppSec**
+**Web Application Security → AI Application Security**  
+Security researcher focused on web vulnerabilities, LLM applications, agent systems, and MCP attack surfaces.
 
-I am a third-year Cybersecurity student at Hanoi University of Science and Technology (HUST), focusing on web application security and emerging attack surfaces in LLM applications, AI agents, and MCP-based systems.
+<pre>
+$ whoami
+vuvannam-sec
 
-My current work combines hands-on web vulnerability research, bug bounty reporting, and AI-assisted security analysis.
+$ focus
+web-appsec
+llm-application-security
+agent-and-tool-use-security
+bug-bounty-research
+
+$ current_target
+finding practical vulnerabilities where web security meets AI systems
+</pre>
 
 [Portfolio](https://vuvannam-sec.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/namvuvan-security) ·
@@ -16,72 +26,73 @@ My current work combines hands-on web vulnerability research, bug bounty reporti
 
 ---
 
-## Focus Areas
+## About
 
-- **Web Application Security**: XSS, access control, SSRF, IDOR, file upload bypass, path traversal
-- **LLM Application Security**: prompt injection, tool-use abuse, agent hijacking, RAG poisoning
-- **MCP / Agent Attack Surface**: MCP server behavior, tool permissions, trust boundaries
-- **Security Research Workflow**: bug bounty reporting, source review, PoC writing, technical write-ups
+I am a cybersecurity student at Hanoi University of Science and Technology, focusing on practical application security research.
+
+My main interest is the security of AI-powered applications: LLM interfaces, agent workflows, tool-use systems, browser integrations, and MCP-based architectures.
+
+I use bug bounty, source review, and hands-on testing to study how real systems fail.
+
+---
+
+## Research Interests
+
+- Web application vulnerabilities: XSS, access control, SSRF, IDOR, file upload bypass, path traversal
+- LLM application security: prompt injection, system prompt exposure, unsafe output handling
+- Agent security: tool-use abuse, agent hijacking, trust boundary failures
+- MCP security: server behavior, permission models, exposed tools, integration risks
+- Security reporting: PoC writing, vulnerability triage, responsible disclosure
 
 ---
 
 ## Selected Security Research
 
-| Target | Vulnerability | Status |
-|--------|---------------|--------|
-| Genspark AI Platform | Wormable Stored XSS via unsanitized AI-generated output | Write-up in progress |
+| Target | Vulnerability | Notes |
+|--------|---------------|-------|
+| Genspark AI Platform | Wormable Stored XSS via unsanitized AI-generated output | Write-up pending |
 | Cốc Cốc Browser Extension | DOM-based XSS in Dictionary / Translate extension | Reported |
 
-I actively submit vulnerability reports through HackerOne, Huntr, and responsible disclosure channels.
+I actively submit vulnerability reports through responsible disclosure channels, HackerOne, and Huntr.
 
 ---
 
-## Selected Projects
+## Projects
 
 | Repository | Description |
 |-----------|-------------|
-| [security-writeups](https://github.com/vuvannam-sec/security-writeups) | Real-world vulnerability write-ups and security research notes |
+| [security-writeups](https://github.com/vuvannam-sec/security-writeups) | Vulnerability write-ups, notes, and security research material |
 | [AI-Based-Security-Enhancements](https://github.com/vuvannam-sec/AI-Based-Security-Enhancements) | Linux intrusion detection system using machine learning |
-| [vpn-detector-traffic-analysis](https://github.com/vuvannam-sec/vpn-detector-traffic-analysis) | VPN vs. non-VPN traffic classification using ML models |
+| [vpn-detector-traffic-analysis](https://github.com/vuvannam-sec/vpn-detector-traffic-analysis) | VPN and non-VPN traffic classification using ML models |
 | [OSINT-Tool-ALL-IN-ONE](https://github.com/vuvannam-sec/OSINT-Tool-ALL-IN-ONE) | OSINT tool for Facebook profile and comment collection |
 
 ---
 
-## Current Roadmap
+## Toolkit
 
-**April – June 2026**
-
-- Complete selected PortSwigger Web Security Academy topics
-- Publish two English vulnerability write-ups
-- Build a public portfolio around Web AppSec and AI application security
-- Apply for AppSec / DevSecOps / Security Research internships
-- Study LLM application vulnerabilities and agent/MCP attack surfaces
-
----
-
-## Technical Stack
-
-**Security:** Burp Suite, Semgrep, Nuclei, Subfinder, httpx, Docker  
+**Security:** Burp Suite, Semgrep, Nuclei, Subfinder, httpx  
 **Programming:** Python, Bash, JavaScript  
-**Platforms:** Linux, WSL, GitHub Actions  
-**Research:** Web AppSec, LLM AppSec, bug bounty reporting, source code review
+**Platform:** Linux, WSL, Docker, GitHub Actions  
+**Workflow:** source review, PoC development, bug bounty reporting, AI-assisted analysis
 
 ---
 
-## GitHub Activity
+## Current Focus
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake.svg">
-</picture>
+```txt
+[+] Web AppSec fundamentals
+[+] LLM application vulnerability research
+[+] AI agent and MCP attack surface mapping
+[+] English technical writing for vulnerability reports
+[+] Public write-ups and responsible disclosure
+```
 
 ---
 
 ## Contact
 
-I am open to security research collaboration, internship opportunities, and responsible disclosure discussions.
+Open to security research collaboration, responsible disclosure discussion, and AppSec / Security Research internship opportunities.
 
 - Email: [vuvannam.sec@gmail.com](mailto:vuvannam.sec@gmail.com)
-- LinkedIn: [namvuvan-security](https://www.linkedin.com/in/namvuvan-security)
 - Blog: [vuvannam-sec.github.io](https://vuvannam-sec.github.io)
+- LinkedIn: [namvuvan-security](https://www.linkedin.com/in/namvuvan-security)
