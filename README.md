@@ -18,7 +18,14 @@
 ## 🐍 Watch my contributions get eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vuvannam-sec/vuvannam-sec/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-colo## 🐍 Watch my contributions get eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vuvannam-sec/vuvannam-sec/output/github-snake.svg" />
+</picture>
+r-scheme: dark)" srcset="https://github.com/vuvannam-sec/vuvannam-sec/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vuvannam-sec/vuvannam-sec/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/vuvannam-sec/vuvannam-sec/blob/output/github-snake.svg" />
 </picture>
