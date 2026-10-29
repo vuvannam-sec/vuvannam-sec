@@ -4,7 +4,7 @@
 
 I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student at Hanoi University of Science and Technology. I explore how AI and automation can support security research and reduce repetitive work, while developing the security foundations needed to understand and verify the results.
 
-[Portfolio & writing](https://vuvannam-sec.github.io/) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam1208) · [Huntr](https://huntr.com/users/vuvannam1208) · [Email](mailto:vuvannam.sec@gmail.com)
+[Portfolio & writing](https://vuvannam-sec.github.io/) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec) · [Email](mailto:vuvannam.sec@gmail.com)
 
 ## What I'm exploring
 
@@ -18,6 +18,8 @@ I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student
 | --- | --- | --- |
 | [Genspark AI Chat](https://vuvannam-sec.github.io/posts/genspark-stored-xss/) | Stored XSS through unsanitized AI-generated output in shared conversations. | Disclosed and fixed |
 | [Cốc Cốc Dictionary & Translate extension](https://vuvannam-sec.github.io/posts/coccoc-dom-xss/) | DOM-based XSS caused by unsafe handling of selected text. | Disclosed and fixed |
+
+Received a thank-you from GitLab on [HackerOne](https://hackerone.com/vuvannam-sec).
 
 ## Selected projects
 
